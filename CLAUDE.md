@@ -8,5 +8,5 @@ The design is supposed to be simple and minimalistic. It's supposed to convey a 
 - Simple and minimalistic design
 - Cursor animation
 - Monospaced font
-- Dark background.
+- Dark background
 - GitHub Pages hosting
