@@ -10,3 +10,4 @@ The design is supposed to be simple and minimalistic. It's supposed to convey a 
 - Monospaced font
 - Dark background
 - GitHub Pages hosting
+- Favicon & manifest (located in the ./assets/favicon/ directory)
