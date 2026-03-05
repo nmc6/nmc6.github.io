@@ -11,3 +11,5 @@ The design is supposed to be simple and minimalistic. It's supposed to convey a 
 - Dark background
 - GitHub Pages hosting
 - Favicon & manifest (located in the ./assets/favicon/ directory)
+- Link to my LinkedIn profile
+- Link to send me an email
